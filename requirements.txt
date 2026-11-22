@@ -1,0 +1,8 @@
+PyQt5
+telethon
+pandas
+nltk
+wordcloud
+matplotlib
+pymorphy2
+emoji
